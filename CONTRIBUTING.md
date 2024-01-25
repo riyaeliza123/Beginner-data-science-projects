@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-1. [Internal Contribution Strategies](#Internal-Contribution-Strategies)
-2. [External Contribution Guidelines](#External-Contribution-Guidelines)
+1. [Contribution Strategies](#Contribution-Strategies)
+2. [Contribution Guidelines](#Contribution-Guidelines)
 3. [Get Started!](#Get-Started!)
 4. [Code of Conduct](#Code-of-Conduct-)
 5. [Attribution](#Attribution)
 
-## Internal Contribution Strategies
+## Contribution Strategies
 
 Our collaboration strategy is designed to leverage GitHub's project management tools to ensure an organized, transparent, and efficient workflow. We encourage all contributions that may be benificial for a newbie to data science.
 
@@ -16,7 +16,7 @@ Our collaboration strategy is designed to leverage GitHub's project management t
 
 * **GitHub Code Review Function:** All contributions will be submitted via pull requests and subject to review using GitHub's code review function. This allows admins to provide feedback on the changes, suggest improvements, and ensure that all code adheres to our standards before merging.
 
-## Additional Contribution Guidelines
+## Contribution Guidelines
 
 We are thrilled that you're interested in contributing to this repository. Your contributions are invaluable to us, and we are committed to acknowledging your efforts and ensuring you receive proper credit for your work. There are several ways you can contribute to our project, each significant and appreciated:
 
@@ -96,7 +96,7 @@ Remember, Beginner-data-science-projects is a community-driven project. Your con
 
 ## Code of Conduct
 
-Please note that this project is released with a [Code of Conduct](https://github.com/UBC-MDS/doeasyeda/blob/main/CONDUCT.md). By contributing to this project you agree to abide by its terms.
+Please note that this project is released with a [Code of Conduct](https://github.com/riyaeliza123/Beginner-data-science-projects/blob/main/CONDUCT.md). By contributing to this project you agree to abide by its terms.
 
 ### Attribution
 
