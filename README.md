@@ -30,4 +30,4 @@ I welcome and appreciate your contributions. If you have a notebook that can hel
 
 ## License
 
-`Beginner-data-science-projects` was created by Riya Eliza. It is licensed under the terms of the MIT license.
+`Beginner-data-science-projects` was created by Riya Eliza. It is licensed under the terms of the Creative Commons CC0.
