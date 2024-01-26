@@ -19,7 +19,7 @@ I welcome and appreciate your contributions. If you have a notebook that can hel
    ```
 
    Now you can make your changes locally.
-4. Commit your changes and push your branch to GitHub. Only push your notebook (do not include your data set):
+4. Commit your changes and push your branch to GitHub. Only push your notebook (and not your dataset):
 
    ```
    git add your-notebook.ipynb
@@ -27,6 +27,7 @@ I welcome and appreciate your contributions. If you have a notebook that can hel
    git push origin name-of-your-bugfix-or-feature
    ```
 5. Submit a pull request through the GitHub website.
+ 
 
 ## License
 
