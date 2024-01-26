@@ -21,7 +21,7 @@ Our collaboration strategy is designed to leverage GitHub's project management t
 2. Clone your fork locally:
 
    ```
-   https://github.com/riyaeliza123/Beginner-data-science-projects.git
+   https://github.com/your-username/Beginner-data-science-projects.git
    ```
 3. Create a branch for local development:
 
