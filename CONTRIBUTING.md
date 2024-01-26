@@ -68,27 +68,26 @@ We appreciate as much detail as possible so we can replicate and address the bug
 
 ## Get Started!
 
-1. Fork the `Beginner-data-science-projects` repo on GitHub.
-2. Clone your fork locally:
+1. Clone your fork locally:
 
    ```
    https://github.com/riyaeliza123/Beginner-data-science-projects.git
    ```
-3. Create a branch for local development:
+2. Create a branch for local development:
 
    ```
    git checkout -b name-of-your-bugfix-or-feature
    ```
 
    Now you can make your changes locally.
-4. Commit your changes and push your branch to GitHub:
+3. Commit your changes and push your branch to GitHub:
 
    ```
    git add .
    git commit -m "Your detailed description of your changes."
    git push origin name-of-your-bugfix-or-feature
    ```
-5. Submit a pull request through the GitHub website.
+4. Submit a pull request through the GitHub website.
 
 ### A Friendly Reminder
 
