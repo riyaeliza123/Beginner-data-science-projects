@@ -17,28 +17,27 @@ Our collaboration strategy is designed to leverage GitHub's project management t
 * **GitHub Code Review Function:** All contributions will be submitted via pull requests and subject to review using GitHub's code review function. This allows admins to provide feedback on the changes, suggest improvements, and ensure that all code adheres to our standards before merging.
 
 ## Get Started!
-
-1. Clone your fork locally:
+1. Fork the `Beginner-data-science-projects` repo on GitHub.
+2. Clone your fork locally:
 
    ```
    https://github.com/riyaeliza123/Beginner-data-science-projects.git
    ```
-2. Create a branch for local development:
+3. Create a branch for local development:
 
    ```
    git checkout -b name-of-your-bugfix-or-feature
    ```
 
    Now you can make your changes locally.
-3. Commit your changes and push your branch to GitHub:
+4. Commit your changes and push your branch to GitHub. Only push your notebook (need not include your dataset):
 
    ```
    git add your-notebook.ipynb
    git commit -m "Your detailed description of your changes."
    git push origin name-of-your-bugfix-or-feature
    ```
-4. Submit a pull request through the GitHub website.
-5. Only push the notebook (do not include the dataset in your submission). Add a reference link to your publicly available dataset in your notebook.
+5. Submit a pull request through the GitHub website.
 
 ## Contribution Guidelines
 
