@@ -10,7 +10,7 @@ I welcome and appreciate your contributions. If you have a notebook that can hel
 2. Clone your fork locally:
 
    ```
-   https://github.com/riyaeliza123/Beginner-data-science-projects.git
+   https://github.com/your-username/Beginner-data-science-projects.git
    ```
 3. Create a branch for local development:
 
