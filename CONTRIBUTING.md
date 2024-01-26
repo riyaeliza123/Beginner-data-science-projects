@@ -3,8 +3,8 @@
 ## Table of Contents
 
 1. [Contribution Strategies](#Contribution-Strategies)
-2. [Contribution Guidelines](#Contribution-Guidelines)
-3. [Get Started!](#Get-Started!)
+2. [Get Started!](#Get-Started!)
+3. [Contribution Guidelines](#Contribution-Guidelines)
 4. [Code of Conduct](#Code-of-Conduct-)
 5. [Attribution](#Attribution)
 
@@ -15,6 +15,30 @@ Our collaboration strategy is designed to leverage GitHub's project management t
 **Code Programming and Reviewing:**
 
 * **GitHub Code Review Function:** All contributions will be submitted via pull requests and subject to review using GitHub's code review function. This allows admins to provide feedback on the changes, suggest improvements, and ensure that all code adheres to our standards before merging.
+
+## Get Started!
+
+1. Clone your fork locally:
+
+   ```
+   https://github.com/riyaeliza123/Beginner-data-science-projects.git
+   ```
+2. Create a branch for local development:
+
+   ```
+   git checkout -b name-of-your-bugfix-or-feature
+   ```
+
+   Now you can make your changes locally.
+3. Commit your changes and push your branch to GitHub:
+
+   ```
+   git add your-notebook.ipynb
+   git commit -m "Your detailed description of your changes."
+   git push origin name-of-your-bugfix-or-feature
+   ```
+4. Submit a pull request through the GitHub website.
+5. Only push the notebook (do not include the dataset in your submission). Add a reference link to your publicly available dataset in your notebook.
 
 ## Contribution Guidelines
 
@@ -65,29 +89,6 @@ We appreciate as much detail as possible so we can replicate and address the bug
 * Describe in detail how the feature would function.
 * Aim for a narrow scope to facilitate easier implementation.
 * Engage in the discussion around your proposal to refine and improve it.
-
-## Get Started!
-
-1. Clone your fork locally:
-
-   ```
-   https://github.com/riyaeliza123/Beginner-data-science-projects.git
-   ```
-2. Create a branch for local development:
-
-   ```
-   git checkout -b name-of-your-bugfix-or-feature
-   ```
-
-   Now you can make your changes locally.
-3. Commit your changes and push your branch to GitHub:
-
-   ```
-   git add .
-   git commit -m "Your detailed description of your changes."
-   git push origin name-of-your-bugfix-or-feature
-   ```
-4. Submit a pull request through the GitHub website.
 
 ### A Friendly Reminder
 
