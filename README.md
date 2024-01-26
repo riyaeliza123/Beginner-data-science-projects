@@ -20,11 +20,12 @@ I welcome and appreciate your contributions. If you have a notebook that can hel
 3. Commit your changes and push your branch to GitHub:
 
    ```
-   git add .
+   git add your-notebook.ipynb
    git commit -m "Your detailed description of your changes."
    git push origin name-of-your-bugfix-or-feature
    ```
 4. Submit a pull request through the GitHub website.
+5. Only push the notebook (do not include the dataset in your submission). Add a reference link to your publicly available dataset in your notebook.
 
 ## License
 
